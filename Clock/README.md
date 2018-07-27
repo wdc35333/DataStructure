@@ -1,3 +1,0 @@
-# godOfJava
-
-hello Java !

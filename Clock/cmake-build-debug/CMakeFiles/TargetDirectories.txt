@@ -1,3 +1,0 @@
-/Users/wondongchan/Desktop/develop/DataStructure/Clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wondongchan/Desktop/develop/DataStructure/Clock/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wondongchan/Desktop/develop/DataStructure/Clock/cmake-build-debug/CMakeFiles/Clock.dir
